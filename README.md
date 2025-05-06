@@ -15,4 +15,4 @@ php artisan db:seed
 
 
 
-url: http://restaurant.private:8080/index.html
+url: http://restaurant.private
